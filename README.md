@@ -1,2 +1,2 @@
-# Testes-AG
- Testes feitos em algoritmos genéticos.
+# Avaliador de métricas
+ Testes feitos para avaliar métricas.
